@@ -17,7 +17,6 @@ submit.onclick = function(){
        else{
             result.innerHTML = `'${userText}' is not a palindrome`;
        }
-
     }
 }
 
